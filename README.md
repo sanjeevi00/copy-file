@@ -21,8 +21,8 @@ End the program
 ## PROGRAM:
 ```python
 Program for copying the contents from one file to another file
-Developed by: Sabari Akash A
-RegisterNumber: 212222230124
+Developed by: Sanjeevi J
+RegisterNumber: 212222110040
 
 with open("text1.txt",'r') as fp:
     msg1=fp.read()
